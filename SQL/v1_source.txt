@@ -1,0 +1,5 @@
+Q1 --  https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true
+Q2 -- https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true
+ ASSIGNMENT
+
+ 		https://www.hackerrank.com/challenges/select-all-sql?isFullScreen=true

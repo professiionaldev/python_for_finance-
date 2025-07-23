@@ -1,0 +1,5 @@
+Q1 --  https://www.hackerrank.com/challenges/weather-observation-station-1?isFullScreen=true
+Q2 -- https://www.hackerrank.com/challenges/weather-observation-station-3?isFullScreen=true
+ ASSIGNMENT
+
+ 		https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true
